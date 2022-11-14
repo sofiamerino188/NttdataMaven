@@ -1,0 +1,1 @@
+/Users/sofiamerino/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.5.v20221102-0933/jre/bin/javadoc -J-Xmx512m @options @packages
